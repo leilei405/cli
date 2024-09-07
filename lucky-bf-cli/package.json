@@ -5,11 +5,14 @@
   "bin": {
     "lucky-cli": "bin/index.js"
   },
-  "main": "index.js",
+  "main": "bin/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "lucky-bf-lib": "^0.0.1"
+  }
 }

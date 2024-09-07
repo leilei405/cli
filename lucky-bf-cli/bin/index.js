@@ -1,7 +1,5 @@
 #!/usr/bin/env node
 
-// const lib = require("bf-cli-create-project-lib");
+const lib = require("lucky-bf-lib");
 
-console.log("welcome lucky-bf-cli");
-
-// console.log("welcome bf-cli-create-project 111");
+console.log("welcome lucky-bf-cli!!!!", lib.sum(1, 2));
