@@ -1,9 +1,9 @@
 {
-  "name": "bf-cli-create-project",
-  "version": "1.0.1",
+  "name": "lucky-bf-cli",
+  "version": "0.0.1",
   "description": "一个简单的脚手架工具",
   "bin": {
-    "bf-cli-create-project": "bin/index.js"
+    "lucky-cli": "bin/index.js"
   },
   "main": "index.js",
   "scripts": {
@@ -11,8 +11,5 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "bf-cli-create-project-lib": "^1.0.0"
-  }
+  "license": "ISC"
 }

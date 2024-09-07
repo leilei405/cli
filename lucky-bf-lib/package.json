@@ -1,6 +1,6 @@
 {
-  "name": "bf-cli-create-project-lib",
-  "version": "1.0.0",
+  "name": "lucky-lib",
+  "version": "0.0.1",
   "description": "",
   "main": "./lib/index.js",
   "scripts": {
