@@ -1,6 +1,6 @@
 {
   "name": "lucky-bf-cli",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "一个简单的脚手架工具",
   "bin": {
     "lucky-cli": "bin/index.js"
@@ -13,6 +13,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "lucky-bf-lib": "^0.0.1"
+    "lucky-bf-lib": "^0.0.2"
   }
 }
